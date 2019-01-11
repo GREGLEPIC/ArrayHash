@@ -58,7 +58,15 @@ def position_epenser
 end
 
 def perform
-position_epenser
+  nombre_handle
+  nombre_handle_w_integer
+  nombre_aude
+  nombre_1er_majuscules
+  nombre_majuscules
+  nombre_underscore
+  ordre_alphabetique
+  plus_court
+  position_epenser
 end
 
 perform
